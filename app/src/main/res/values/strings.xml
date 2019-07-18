@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FirstMilestone</string>
+    <string name="Header">Magnetometer / Compass</string>
+
 </resources>
