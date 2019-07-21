@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">FirstMilestone</string>
-    <string name="Header">Magnetometer / Compass</string>
+    <string name="Header">MAgnetometers</string>
+    <string name="saveLogToFile">capture data</string>
+    <string name="GPS">GPS</string>
 
 </resources>
